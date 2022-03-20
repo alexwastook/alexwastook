@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexwastook
 - 👀 I’m interested in ... IT
-- 🌱 I’m currently learning ... Java, python3 and soonly and C++
+- 🌱 I’m currently learning ... Java, python3 and soonly C++
 - 💞️ I’m looking to collaborate on ... Medium and small projects in Python (intremediate) and Java (beginner)
 - 📫 How to reach me ... Through Github
 
