@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexwastook
 - 👀 I’m interested in ... IT
-- 🌱 I’m currently learning ... Java, python3 at school and Rust on my free time
+- 🌱 I’m currently learning ... Java at school and python3 on my free time
 - 💞️ I’m looking to collaborate on ... Medium and small projects in Python (intremediate) and Java (beginner)
 - 📫 How to reach me ... Through Github
 
